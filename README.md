@@ -1,15 +1,10 @@
 # MultiMA_TSL and Cenderawasih (successor of MultiMA)
 
+## Update 2025-11-22
+These strategies are not to be used for live trading. Use them for learning purposes only.
+
 ## Update 2023-07-05
 Please go to https://botacademy.ddns.net/ for my articles that answers faqs around freqtrade
-
-## Update 2023-03-15
-https://discord.gg/FDrYRxV5k9 is the link to my discord where I posted live discord notif of these strats:
-* Cenderawasih_30m
-
-## Update 2022-7-13
-There will be 1 last update on MultiMA, before I retiring the name, and moving forward with Cenderawasih (simpler strat)
-Also, the kucoin version has no stoploss. So please do extensive tests before running it live. Big drawdown is expected.
 
 ## Important note!!! This strategy is developed and tested using BUSD pairs' data. So it might give better result if it's being used when BUSD is used as the stake, compared to other stake.
 
@@ -22,17 +17,14 @@ https://github.com/stash86/freqtrade/tree/freqtrade-develop/user_data
 
 
 ## Affiliate links
-Vultr (you get $100 credit that expires in 14 days) https://www.vultr.com/?ref=8944192-8H
+[Vultr (you get $300 credit that expires in 30 days)](https://www.vultr.com/?ref=9651630-9J)
 
 Binance.com (Non-US citizen) https://accounts.binance.com/en/register?ref=143744527
-
-Kucoin https://www.kucoin.com/ucenter/signup?rcode=r3BWY2T
 
 
 ## Donation
 Github sponsor - https://github.com/sponsors/stash86/
 
-Patreon (get access to premium version of [ft-dashboard](https://github.com/stash86/ft-dashboard)) - https://patreon.com/stash86
 
 ## Crypto
 BTC: 1FghqtgGLpD9F21BNDMje4iyj4cSzVPZPb
